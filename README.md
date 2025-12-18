@@ -1,8 +1,8 @@
-# 🎯 Real-Time Face Recognition System
+# Real-Time Face Recognition System
 
 A comprehensive face recognition application built with OpenCV and Python that detects and identifies faces in real-time using computer vision and machine learning. This system allows users to capture face data, train custom recognition models, and perform live identification through webcam feed with high accuracy.
 
-## 📋 About The Project
+## About The Project
 
 This face recognition system implements computer vision algorithms to:
 - Detect faces in real-time video streams using Haar Cascade classifiers
@@ -12,7 +12,7 @@ This face recognition system implements computer vision algorithms to:
 
 Perfect for learning computer vision fundamentals, building attendance systems, access control applications, or security monitoring solutions.
 
-## 🛠️ Technologies & Skills
+## Technologies & Skills
 
 **Programming & Frameworks:**
 - Python 3.x
@@ -28,15 +28,15 @@ Perfect for learning computer vision fundamentals, building attendance systems, 
 - Algorithm Implementation
 - Software Architecture (Frontend/Backend separation)
 
-## ✨ Features
+## Features
 
-- ✅ **Real-time Face Detection** - Live webcam feed processing with Haar Cascade
-- ✅ **Custom Model Training** - Train recognition models on personal datasets
-- ✅ **Face Data Capture** - Automated face image collection tool
-- ✅ **Multi-user Support** - Handle multiple individuals in database
-- ✅ **Confidence Scoring** - Recognition results with accuracy metrics
-- ✅ **Organized Architecture** - Clean separation of frontend and backend
-- ✅ **Easy Setup** - Simple installation and usage instructions
+- **Real-time Face Detection** - Live webcam feed processing with Haar Cascade
+- **Custom Model Training** - Train recognition models on personal datasets
+- **Face Data Capture** - Automated face image collection tool
+- **Multi-user Support** - Handle multiple individuals in database
+- **Confidence Scoring** - Recognition results with accuracy metrics
+- **Organized Architecture** - Clean separation of frontend and backend
+- **Easy Setup** - Simple installation and usage instructions
 
 ## 📁 Project Structure
 
@@ -60,7 +60,7 @@ Face-Recognition-System/
 └── README.md
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.7 or higher
@@ -112,7 +112,7 @@ python scripts/recognize.py
 ```
 Starts real-time face recognition. Press 'q' to quit.
 
-## 🎓 What I Learned
+## What I Learned
 
 Through this project, I gained hands-on experience with:
 - Implementing computer vision algorithms using OpenCV
@@ -122,7 +122,7 @@ Through this project, I gained hands-on experience with:
 - Building modular, maintainable code architecture
 - Version control with Git and GitHub best practices
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] Complete web-based frontend interface
 - [ ] REST API for backend communication
@@ -132,17 +132,17 @@ Through this project, I gained hands-on experience with:
 - [ ] Database integration for user management
 - [ ] Deployment to cloud platform
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
+## Author
 
 **Abdenet Tadese**
 - GitHub: [@AbdenetI](https://github.com/AbdenetI)
 - Email: abdenet.tadese@mnsu.edu
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - OpenCV community for comprehensive documentation
 - Computer vision tutorials and resources
@@ -150,4 +150,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-⭐ **If you find this project useful, please consider giving it a star!**
+**If you find this project useful, please consider giving it a star!**
